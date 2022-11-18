@@ -181,7 +181,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #E27689;
+			color: white;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2334,7 +2334,7 @@ input, select, textarea {
 		/* Icons */
 
 			ul.icons li a {
-				width: 1.75em;
+				width: 50px;
 			}
 
 		/* Item */
@@ -2606,7 +2606,7 @@ input, select, textarea {
 
 			ul.icons a {
 				width: 50px;
-				font-size: 1.25em;
+				font-size: 40px;
 			}
 
 		/* Main */
