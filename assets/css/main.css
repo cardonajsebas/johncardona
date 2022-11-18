@@ -154,8 +154,14 @@ input, select, textarea {
 		margin: 2em 0 0 0;
 	}
 
-	strong, b {
-		font-weight: 300;
+	strong{
+		font-weight: 400;
+		font-size: 70px;
+		color: #666;
+	}
+	b{
+		font-weight: 400;
+		font-size: 30px;
 		color: #666;
 	}
 
@@ -1750,26 +1756,31 @@ input, select, textarea {
 	}
 
 		.image img {
-			width: 40%;
+			width: 70%;
 		}
 
 		.image.avatar48 {
-			width: 55px;
-			height: 55px;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 80px;
+			height: 80px;
 		}
 
 			.image.avatar48 img {
-				width: 55px;
-				height: 55px;
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 80px;
+				height: 80px;
 			}
 
 		.image.fit {
-			display: block;
-			width: 100%;
+			width: 70%;
 		}
 
 		.image.featured {
-			width: 40%;
+			width: 70%;
 			margin: 0 0 2em 0;
 		}
 
@@ -2116,7 +2127,7 @@ input, select, textarea {
 		}
 
 		#logo .image {
-			position: absolute;
+			position: relative;
 			left: 0;
 			top: 0;
 		}
@@ -2237,7 +2248,7 @@ input, select, textarea {
 						border-bottom-color: rgba(255, 255, 255, 0);
 					}
 
-			#main > section.cover {
+			#main > section. {
 				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
@@ -2301,7 +2312,7 @@ input, select, textarea {
 			}
 
 			#main section.cover {
-				padding: 5em 0;
+				padding: 8em 0;
 			}
 
 	}
@@ -2339,7 +2350,6 @@ input, select, textarea {
 			}
 
 			#logo .image {
-				position: relative;
 				margin: 0 0 0.5em 0;
 			}
 
@@ -2567,7 +2577,7 @@ input, select, textarea {
 				}
 
 				#main section.cover {
-					padding: 4em 0;
+					padding: 8em 0;
 				}
 
 	}
