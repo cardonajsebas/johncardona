@@ -2086,7 +2086,7 @@ input, select, textarea {
 			}
 
 		#header .icons {
-			font-size: 0.8em;
+			font-size: 35px;
 			text-align: center;
 		}
 
@@ -2177,7 +2177,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #4b46ea;
 					}
 
 /* Footer */
@@ -2248,7 +2248,7 @@ input, select, textarea {
 						border-bottom-color: rgba(255, 255, 255, 0);
 					}
 
-			#main > section. {
+			#main > section.{
 				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
@@ -2605,7 +2605,7 @@ input, select, textarea {
 		/* List */
 
 			ul.icons a {
-				width: 2em;
+				width: 50px;
 				font-size: 1.25em;
 			}
 
